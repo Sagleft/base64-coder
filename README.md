@@ -16,3 +16,22 @@ Decode:
 ```bash
 ./b64 encode to.dat from.txt
 ```
+
+### build
+
+```bash
+mkdir build
+bash cross_build.sh
+```
+
+or
+
+```bash
+go build
+```
+
+### install (linux)
+
+```bash
+mv b64 /usr/bin/
+```
