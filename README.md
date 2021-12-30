@@ -1,6 +1,8 @@
 # base64-coder
 simple base64 coder/decoder written in Golang
 
+### :computer_mouse: [Releases](https://github.com/Sagleft/base64-coder/releases)
+
 ### usage example
 
 Encode:
