@@ -17,6 +17,8 @@ Decode:
 ./b64 encode to.dat from.txt
 ```
 
+---
+
 ### build
 
 ```bash
