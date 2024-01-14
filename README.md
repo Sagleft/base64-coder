@@ -14,7 +14,7 @@ Encode:
 Decode:
 
 ```bash
-./b64 encode to.dat from.txt
+./b64 decode to.dat from.txt
 ```
 
 ---
